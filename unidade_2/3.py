@@ -2,7 +2,10 @@
 Universiade Aberta do Brasil
 Tecnologias Educacionais
 Introducao a algoritmos - 2019
-autor: Raoni F. S. Teixeira '''
+
+Autor: Raoni F. S. Teixeira
+
+O programa imprime a media de 1, 10, 5, 6, e 4 na tela'''
 
 a = 1
 b = 10

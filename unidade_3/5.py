@@ -1,3 +1,11 @@
+''''
+Universiade Aberta do Brasil
+Tecnologias Educacionais
+Introducao a algoritmos - 2019
+autor: Raoni F. S. Teixeira
+
+Este programa le tres numeros e ordena '''
+
 a = int(input('Informe um número: '))
 b = int(input('Informe um número: '))
 c = int(input('Informe um número: '))
